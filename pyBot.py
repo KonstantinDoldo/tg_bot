@@ -2,8 +2,8 @@ import telebot
 import time
 import requests
 
-TG_TOKEN = '1477538686:AAHDrwTWdSNG3qP6bWavEdV5SfjFnwAZnhA'
-OWM_TOKEN = 'd7819b435da0a923551d08a72478f6d6'
+TG_TOKEN = ''
+OWM_TOKEN = ''
 weather_url_forecast = "http://api.openweathermap.org/data/2.5/forecast"
 weather_url_now = "http://api.openweathermap.org/data/2.5/weather"
 moex_url = 'http://iss.moex.com/iss/engines/currency/markets/selt/boards/CETS/securities.json'
